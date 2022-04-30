@@ -1,0 +1,18 @@
+# MacOS
+.DS_Store
+
+# IntelliJ
+.idea
+*.iml
+*.ipr
+
+# Terraform
+.terraform
+*.tfstate
+*.tfstate.backup
+
+# Dir Env
+.direnv
+
+# IAM Live
+permissions.json
